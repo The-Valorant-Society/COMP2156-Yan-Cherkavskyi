@@ -4,15 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\""
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/The-Valorant-Society/COMP2156-Yan-Cherkavskyi"
+    "url": "git+https://github.com/The-Valorant-Society/COMP2156-Yan-Cherkavskyi.git"
   },
   "keywords": [],
   "bugs": {
-     "url": "https://github.com/The-Valorant-Society/COMP2156-Yan-Cherkavskyi/issue" 
+    "url": "https://github.com/The-Valorant-Society/COMP2156-Yan-Cherkavskyi/issue"
   },
   "homepage": "https://github.com/The-Valorant-Society/COMP2156-Yan-Cherkavskyi#readme",
   "author": "",
